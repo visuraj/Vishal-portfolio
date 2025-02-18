@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Vishal-portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/Vishal-portfolio/static/js/main.11709ebe.js",
+    "main.js": "/Vishal-portfolio/static/js/main.d2cb03e3.js",
     "static/media/HeroImage.jpg": "/Vishal-portfolio/static/media/HeroImage.a131034bf20ac4dd7948.jpg",
     "index.html": "/Vishal-portfolio/index.html",
     "main.bf538fe7.css.map": "/Vishal-portfolio/static/css/main.bf538fe7.css.map",
-    "main.11709ebe.js.map": "/Vishal-portfolio/static/js/main.11709ebe.js.map"
+    "main.d2cb03e3.js.map": "/Vishal-portfolio/static/js/main.d2cb03e3.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.11709ebe.js"
+    "static/js/main.d2cb03e3.js"
   ]
 }
