@@ -267,7 +267,7 @@ export const projects = [
     description:
       "Developed a Voice-Based Patient Call System using AI, NLP, and Speech Services to enhance nurse-patient communication, enabling real-time request prioritization and faster response times. 🚀",
     image:
-      "https://media.licdn.com/dms/image/v2/D5622AQElvpTh-Ry3pQ/feedshare-shrink_2048_1536/B56ZUQBsDfHoAs-/0/1739730634052?e=1742428800&v=beta&t=hpMmgVrKC5DNnl8zakwf6L8goluTTxsdzYm07IHkGFA",
+      "https://media.licdn.com/dms/image/v2/D5622AQGmsir_X52zMA/feedshare-shrink_800/B56ZUZq4NHGsAg-/0/1739892426706?e=1743033600&v=beta&t=wTkop-7xPBdp8gVK-kVpPn8Rra8pwAlTFO6grMQ0SuY",
     tags: ["React-Native", "Gemini AI Studio", "MongoDb Database", "AWS Cloud API"],
     category: "android app",
     github: "https://github.com/visuraj",
