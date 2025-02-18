@@ -12,8 +12,8 @@ export const Bio = {
     "https://drive.google.com/file/d/1dWlPgIMvc0efAZgPdwktlXvXaxV3XvXp/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vishal-kumar-2569aa184",
   twitter: "https://x.com/vishal singh yaduwanshi (@vishals31163095) / X",
-  insta: "https://www.instagram.com/rithu_shetty12?igsh=MTA0b3lveG1zdHJiNA%3D%3D",
-  facebook: "https://m.facebook.com/rithu.shetty.7547",
+  insta: "https://www.instagram.com2?igsh=MTA0b3lveG1zdHJiNA%3D%3D",
+  facebook: "https://m.facebook..7547",
 };
 
 export const skills = [
