@@ -184,7 +184,7 @@ export const education = [
     img: "https://images.squarespace-cdn.com/content/v1/638476bc795c4e5410b55317/622fd3ba-c11d-4e15-adce-fd768638b56c/AIMS+Institutes+Logo.jpg",
     school: "Acharya Institute of Management and Sciences (AIMS), Bangluru",
     date: "Jan 2023 - Sep 2025",
-    desc: "I am currently pursuing a Master of Computer Applications at Poornaprajna Institute of Management, Udupi. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I am currently pursuing a Master of Computer Applications at Acharya Institute of Management Science, Bangluru. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am learning and working on exciting projects with a team of talented developers.",
     degree: "Master of Computer Applications(MCA)",
   },
   {
