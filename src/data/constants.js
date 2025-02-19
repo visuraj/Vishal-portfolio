@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/visuraj",
   resume:
-    "https://drive.google.com/file/d/1dWlPgIMvc0efAZgPdwktlXvXaxV3XvXp/view?usp=sharing",
+    "https://drive.google.com/file/d/1NT3vQlMLeGDzB_V70rXrBQbnPtgDaUz9/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vishal-kumar-2569aa184",
   twitter: "https://x.com/vishal singh yaduwanshi (@vishals31163095) / X",
   insta: "https://www.instagram.com/",
@@ -69,8 +69,8 @@ export const skills = [
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
       },
       {
-        name: "Firebase",
-        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+        name: "mongoDB",
+        image: "https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png",
       },
     ],
   },
@@ -262,13 +262,13 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Healthcare",
+    title: "Health-care",
     date: "Sep 2024 - Dec 2024",
     description:
       "Developed a Voice-Based Patient Call System using AI, NLP, and Speech Services to enhance nurse-patient communication, enabling real-time request prioritization and faster response times. 🚀",
     image:
       "https://media.licdn.com/dms/image/v2/D5622AQGmsir_X52zMA/feedshare-shrink_800/B56ZUZq4NHGsAg-/0/1739892426706?e=1743033600&v=beta&t=wTkop-7xPBdp8gVK-kVpPn8Rra8pwAlTFO6grMQ0SuY",
-    tags: ["React-Native", "Gemini AI Studio", "MongoDb Database", "AWS Cloud API"],
+    tags: ["React-Native", "Gemini AI ", "MongoDb Database", "AWS Cloud API" , "Node.js" , "Express.js"],
     category: "android app",
     github: "https://github.com/visuraj",
     webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
