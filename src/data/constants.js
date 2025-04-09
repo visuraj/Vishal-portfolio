@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/visuraj",
   resume:
-    "https://drive.google.com/file/d/1NT3vQlMLeGDzB_V70rXrBQbnPtgDaUz9/view?usp=sharing",
+    "https://drive.google.com/file/d/1_VoOuF48WAE7Fm2bzOKxnOROVehkkSsM/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/vishal-kumar-2569aa184",
   twitter: "https://x.com/vishal singh yaduwanshi (@vishals31163095) / X",
   insta: "https://www.instagram.com/",
@@ -143,8 +143,9 @@ export const experiences = [
       "MondoDb",
       ,
     ],
+    // img: "https://static.vecteezy.com/system/resources/previews/011/318/779/original/certificate-icon-logo-design-png.png",
     doc: "https://drive.google.com/file/d/1zsCRx9FF-h6ywFnS7wI4agX3315k6zE-/view?usp=sharing",
-  },
+},
   {
     id: 0,
     img: "https://media.licdn.com/dms/image/v2/C4D0BAQHhCdx-GtFRDg/company-logo_200_200/company-logo_200_200/0/1631331868573?e=1747872000&v=beta&t=xOUfpZ6b4fTzYnfdC9w-ELqPkEmXzN-95vsK2mD3du4",
@@ -267,7 +268,7 @@ export const projects = [
     description:
       "Developed a Voice-Based Patient Call System using AI, NLP, and Speech Services to enhance nurse-patient communication, enabling real-time request prioritization and faster response times. 🚀",
     image:
-      "https://media.licdn.com/dms/image/v2/D5622AQGmsir_X52zMA/feedshare-shrink_800/B56ZUZq4NHGsAg-/0/1739892426706?e=1743033600&v=beta&t=wTkop-7xPBdp8gVK-kVpPn8Rra8pwAlTFO6grMQ0SuY",
+      "https://www.repustate.com/blog/images/understanding-voice-of-the-patient.jpg",
     tags: ["React-Native", "Gemini AI ", "MongoDb Database", "AWS Cloud API" , "Node.js" , "Express.js"],
     category: "android app",
     github: "https://github.com/visuraj",
